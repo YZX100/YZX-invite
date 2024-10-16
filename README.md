@@ -1,0 +1,2 @@
+# YZX-invite
+指挥调度平台invite_one_member远程命令执行漏洞批量检测脚本
