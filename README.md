@@ -13,4 +13,5 @@ body="app/structure/departments.php" || app="指挥调度管理平台"
 该脚本由python3解析器运行
 查询结果会在最后直接返回
 检测URL需要http/https协议
+该脚本仅支持检测行为
 ```
